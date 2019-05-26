@@ -1,0 +1,44 @@
+.personal-info{
+  text-align: right;
+  margin-right: 10px;
+}
+.triggers-list{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+.triggers-list__item i{
+  font-size: 3em;
+}
+.event-handling{
+  display:flex;
+  justify-content: space-around;
+  background-color: transparent;
+}
+#button{
+  background: rgba(255, 137, 2, 0.966);
+  padding: 0.5em 1em;
+  border: none;
+  font-size: 1em;
+  cursor: pointer;
+  color: #ffffff;
+}
+.domTrip{
+  display: flex;
+  justify-content: space-around;
+}
+.triggers-list{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  background-color: transparent;
+}
+section>div{
+  background-color: #d2f1f1
+}
+.domTrip{
+  background-color: transparent;
+}
+.fragment{
+  background-color: transparent; 
+}
